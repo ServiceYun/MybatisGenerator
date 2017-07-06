@@ -1,3 +1,12 @@
+# Max OS X
+*.DS_Store
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Compiled class file
 *.class
 
